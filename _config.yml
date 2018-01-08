@@ -1,8 +1,8 @@
 # Site settings
-title: Shage_Jack的Blog
+title: Shage_Jack's Blog
 email: shagejack@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Shage_Jack的Blog
+  Shage_Jack's Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://ShageJack.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
@@ -15,7 +15,7 @@ recent_num: 20
 
 # Social account
 twitter: Shage_Jack
-weibo: N/A
+weibo: Shage_Jack
 github: ShageJack
 instagram: N/A
 linkedin: N/A
@@ -31,7 +31,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-54767140-1
-  url: yansu.org
+  url: ShageJack.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
