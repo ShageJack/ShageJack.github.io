@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://yansu.org](http://ShageJack.github.io)
+地址：[http://ShageJack.github.io](http://ShageJack.github.io)
 
 ### 安装说明
 
